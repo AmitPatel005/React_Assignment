@@ -1,3 +1,6 @@
 [submodule "routing.git"]
 	path = routing.git
 	url = git@github.com:AmitPatel005/routing.git
+[submodule "api_assignment"]
+	path = api_assignment
+	url = git@github.com:AmitPatel005/api_assignment.git
