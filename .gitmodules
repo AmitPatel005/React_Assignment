@@ -4,3 +4,6 @@
 [submodule "api_assignment"]
 	path = api_assignment
 	url = git@github.com:AmitPatel005/api_assignment.git
+[submodule "tanstack"]
+	path = tanstack
+	url = git@github.com:AmitPatel005/tanstack.git
