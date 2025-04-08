@@ -7,3 +7,6 @@
 [submodule "tanstack"]
 	path = tanstack
 	url = git@github.com:AmitPatel005/tanstack.git
+[submodule "redux-amit"]
+	path = redux-amit
+	url = git@github.com:AmitPatel005/redux-amit.git
